@@ -1,0 +1,266 @@
+img{
+  position: relative;
+  display: flex;
+  flex: 100%;
+  padding: 1em;
+  justify-content: center;
+  align-items: center;
+  max-width: 700px;
+  
+}
+p.weight
+{
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+p.whiteField
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: white;
+  text-align: center;
+  font-size: 14px;
+}
+p.whiteField2
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: white;
+  text-align: center;
+  height: 26px;
+  font-size: 14px;
+  vertical-align: baseline;
+}
+.image {
+  position: relative;
+  display: flex;
+  flex: 100%;
+  padding: 1em;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.imageinfo {
+  position: absolute;
+}
+input.input
+{
+  width: 76px;
+  height: 26px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+input.inputACWghts
+{
+  width: 76px;
+  height: 15px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+  text-align: center;
+  font-size: 14px;
+}
+input.inputWghts
+{
+  width: 34px;
+  height: 15px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-top: 0px;
+  text-align: center;
+}
+canvas.main
+{
+  block-size:auto;
+}
+canvas.cgLines
+{
+  height: 26px;
+  width: 432px;
+}
+div.image1
+{
+  width: 765px;
+  height: 1052px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  background: url(../img/an24.png);
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+div.emptyForOrgnCG
+{
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 69px;
+  width: 206px;
+}
+div.originalCG
+{
+  position: relative;
+  height: 69px;
+  width: 122px;
+}
+div.cgLines
+{
+  top:314px;
+  left:247px;
+  height: 26px;
+  width: 432px;
+}
+div.inputFieldCrew
+{
+  white-space: nowrap;
+  top:314px;
+  left:247px;
+  height: 26px;
+  width: 80px;
+}
+div.rawCG
+{
+  display: flex;
+  position: relative;
+  top:182px;
+  left:247px;
+  height: 69px;
+  width: 434px;
+}
+div.rawHeader
+{
+  display: flex;
+  position: relative;
+  top:16.8%;
+  left:41.6%; 
+  height: 130px;
+  width: fit-content;
+}
+div.raw
+{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top:17.6%;
+  left:32.4%; 
+  height: 26px;
+  width: 512px;
+}
+div.raw2
+{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top:18.0%;
+  left:32.4%; 
+  height: 26px;
+  width: 512px;
+}
+div.raw3
+{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top:18.2%;
+  left:32.4%; 
+  height: 26px;
+  width: 512px;
+}
+div.rawNoCGeffect
+{
+  display: flex;
+  position: relative;
+  top:182px;
+  left:248px;
+  height: 26px;
+  width: 512px;
+}
+div.rawNoCGeffect2
+{
+  display: flex;
+  position: relative;
+  top:189px;
+  left:248px;
+  height: 26px;
+  width: 512px;
+}
+div.rawNoCGeffect3
+{
+  display: flex;
+  position: relative;
+  top:188px;
+  left:248px;
+  height: 21px;
+  width: 512px;
+}
+div.aircraftReg
+{
+  position: relative;
+  top: 10px;
+  left: 46px;
+  width: fit-content;
+  height: fit-content;
+}
+div.weightCalc1
+{
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+div.weightCalc2
+{
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  left: 38px;
+  top: 32px;
+}
+div.weightCalc3
+{
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  left: 248px;
+  top: 277px;
+}
+div.rawOLD
+{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top:234px;
+  left:247px; 
+  height: 26px;
+  width: 512px;
+}
+div.resultingCG
+{
+  display: flex;
+  position: relative;
+  top:188px;
+  left:248px;
+  height: 81px;
+  width: 432px;
+}
+div.noMargin
+{
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
