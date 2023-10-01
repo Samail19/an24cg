@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+This is web representation of An-24 center of gravity pallet.
+
+1. Select in drop-down menu appropriate aircraft registration
+2. Input values into whiteboxes (maximum value is represented in 2 column "Max value")
+3. Observe how red dots are moving in accordance with described rule in picture
+4. On the bottom of page you will find final CG of airplance, Gross Weight
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
