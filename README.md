@@ -7,7 +7,7 @@ This is web representation of An-24 center of gravity pallet.
 3. Observe how red dots are moving in accordance with described rule in picture
 4. On the bottom of page you will find final CG of airplance, Gross Weight
 
-Methods: JavaScript, CSS, Canvas
+JavaScript, CSS, Canvas
 
 ## Available Scripts
 
